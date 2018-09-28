@@ -264,9 +264,9 @@ def drawMatchesKnn_cv2(img1_gray, kp1, img2_gray, kp2, goodMatch, IMGNAME):
 
 
 if __name__ == "__main__":
-    # task1("fig.tif")
-    # task2()
-    # task3()
-    # task4()
+    task1("fig.tif")
+    task2()
+    task3()
+    task4()
     task5()
     # pass
